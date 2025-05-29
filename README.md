@@ -1,1 +1,1 @@
-# learning_git yup
+learning git
